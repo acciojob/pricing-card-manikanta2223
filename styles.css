@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+div{
+	width:40%;
+	height:500px;
+	padding:50px;
+	background-color:gray;
+	box-shadow:20px;	
+	margin-left:20%
+}
+div>button{
+	background-color:red;
+	color:white;
+	border-radius:5px;
+	padding:10px;
+}
